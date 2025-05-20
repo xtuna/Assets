@@ -2,7 +2,7 @@
 
 A comprehensive collection of game assets for our food-themed game "Cozy Cuisine", including UI elements, characters, animations, and more.
 
-![Game Logo](path/to/Logo/logo-with-animation.gif)
+![Game Logo](Logo/logo-with-animation.gif)
 
 ## Overview
 
