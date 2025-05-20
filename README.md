@@ -119,7 +119,7 @@ Loading screen components found in the "Loading Screen Background" folder includ
 
 ## Credits
 
-All assets designed and created by Cozy Cuisine
+All assets designed and created by Ma. Cristina S. Velasco (UI/UX Designer)
 
 ## License
 
