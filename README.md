@@ -2,7 +2,7 @@
 
 A comprehensive collection of game assets for our food-themed game "Cozy Cuisine", including UI elements, characters, animations, and more.
 
-![Game Logo](path/to/logo/image.png)
+![Game Logo](https://drive.google.com/file/d/1luV01G82um4ARn11zsIhjpT2_CS-l6IT/view?usp=drive_link)
 
 ## Overview
 
@@ -25,7 +25,7 @@ This repository contains all visual assets required for Cozy Cuisine (Game Versi
 
 Our game follows a cohesive pixel art style designed to create an inviting and cozy food game experience. The complete UI Style Guide (updated May 19, 2025) is included in this repository.
 
-[[View UI Style Guide PDF](https://drive.google.com/file/d/1fOJoxY6x8QCD1p5PvecIPoEuSveo0Pb5/view?usp=drive_link)
+[View UI Style Guide PDF](https://drive.google.com/file/d/1fOJoxY6x8QCD1p5PvecIPoEuSveo0Pb5/view?usp=drive_link)
 
 ## Component Behavior Guide
 
